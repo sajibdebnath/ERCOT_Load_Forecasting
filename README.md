@@ -1,9 +1,9 @@
 # ERCOT_Load_Forecasting
 "Extreme Weather Grid Load Forecasting using Weather-Informed LSTM and Transformer Machine Learning Models" Submitted in the 57th North American Power Symposium (NAPS) 2025, will be hosted by the University of Connecticut
 
-Conference link: https://uconnuecs.cventevents.com/event/NAPS25/summary
-
 Authors: Sajib Debnath et al.
+
+Conference link: https://uconnuecs.cventevents.com/event/NAPS25/summary
 
 
 Weather data source: https://mesonet.agron.iastate.edu/request/download.phtml?network=TX_ASOS# 
